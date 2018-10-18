@@ -15,7 +15,10 @@ class Mailer
     # On récupère les contacts dans le fichier contacts.json auxquelles on va envoyer le mail?
       @adresse_mail = 'thehackingproject.lille@gmail.com'
       @mdp = 'teamwelsh59'
+
+      send_emails #appel de la méthode pour envoyer les mails
   end
+
 
 # Cette méthode nous permet de se connecter au compte Gmail de THP Lille et d'envoyer un mail aux adresses mails présentes dans le fichier contacts.json
   def send_mail_to_townhall(contact)
@@ -46,6 +49,3 @@ class Mailer
     end
   end
 end
-
-spammer = Mailer.new
-spammer.send_emails
