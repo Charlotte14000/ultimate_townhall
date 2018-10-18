@@ -8,7 +8,7 @@ Ce projet a été réalisé  en collaboration avec <a href = "https://github.com
 
 ### 💻 Présentation du programme 💻
 
-Ce programme consiste à contacter toutes les mairies de France pour que ces dernières parlent de THP dans un premier temps par email puis dans un second temps via Twitter.
+Ce programme consiste à contacter toutes les mairies de France dans un premier temps, par email puis dans un second temps, via Twitter, pour que ces dernières parlent de THP.
 
 ### 🔌  Comment utiliser le programme ? 🔌
 
@@ -107,5 +107,5 @@ Soit un total de 2 286 mairies.
 
 ### ❤ Le handle utilisé ❤
 
-La team de Lille étant très soudé, un handle a été créé spécialement pour l'occasion : <a href="https://twitter.com/ThpLille">@ThpLille</a>
+La team de Lille étant très soudée, un handle a été créé spécialement pour l'occasion : <a href="https://twitter.com/ThpLille">@ThpLille</a>
 </br>Soyez nombreux à nous suivre! Bisous!
