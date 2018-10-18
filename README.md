@@ -4,7 +4,7 @@
 
 ### 🍻 Présentation de l'équipe 🍻
 
-Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/VVH0">Virginie.VH</a> (@VVH), <a href = "https://github.com/anais-dlgt">Anaïs.D</a> (@Anaïs), <a href = "https://github.com/TheLondonWhaleThomas.P">Thomas.P</a> (@ Thomas Prs TIW), <a href = "https://github.com/Kirimari">Mustapha.AO</a> (@Mouss), <a href = "https://github.com/TheStarrK">Tony.K</a> (@Tony), <a href = "https://github.com/immorsh">Josh.S</a> (@shaka), <a href = "https://github.com/perezfelix">Félix.P</a> (@Félix) et <a href = "https://github.com/Clement42">Clément.B</a> (@Clement Boiral) qui représentent la team Lilloise (59 rpz) de The Hacking Project.
+Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/VVH0">Virginie.VH</a> (@VVH), <a href = "https://github.com/anais-dlgt">Anaïs.D</a> (@Anaïs), <a href = "https://github.com/TheLondonWhaleThomas.P">Thomas.P</a> (@ Thomas Prs TIW), <a href = "https://github.com/Kirimari">Mustapha.AO</a> (@Mouss), <a href = "https://github.com/TheStarrK">Tony.K</a> (@Tony), <a href = "https://github.com/immorsh">Josh.S</a> (@shaka), <a href = "https://github.com/perezfelix">Félix.P</a> (@Félix), <a href = "https://github.com/Clement42">Clément.B</a> (@Clement Boiral) et <a href = "https://github.com/Rafikder">Rafik.D</a> (@Rafikder) qui représentent la team Lilloise (59 rpz) de The Hacking Project.
 
 ### 💻 Présentation du programme 💻
 
