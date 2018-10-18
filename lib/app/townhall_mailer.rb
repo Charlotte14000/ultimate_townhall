@@ -1,23 +1,24 @@
 require 'gmail'
-require 'google/apis/gmail_v1'
 require 'googleauth'
 require 'gmail_xoauth'
-require 'googleauth/stores/file_token_store'
 require 'fileutils'
 require 'json'
-require 'csv'
-require_relative 'JsonInterface'
+require_relative 'db_interface'
 require 'dotenv'
+
 Dotenv.load("../../.env")
 #Nous initialisons les différentes gem qui votn nous servir tout au long de la class mailer
 class Mailer
 
   def initialize
-      @contacts = JsonInterface.get_datas_from_json_file("../../db/contacts.json")
+      @contacts = JsonInterface.get_datas_from_json_file("db/contacts.json")
     # On récupère les contacts dans le fichier contacts.json auxquelles on va envoyer le mail?
-      @adresse_mail = ENV['ADRESSE_MAIL']
-      @mdp = ENV['MDP']
+      @adresse_mail = 'thehackingproject.lille@gmail.com'
+      @mdp = 'teamwelsh59'
+
+      send_emails #appel de la méthode pour envoyer les mails
   end
+
 
 # Cette méthode nous permet de se connecter au compte Gmail de THP Lille et d'envoyer un mail aux adresses mails présentes dans le fichier contacts.json
   def send_mail_to_townhall(contact)
@@ -48,6 +49,3 @@ class Mailer
     end
   end
 end
-
-spammer = Mailer.new
-spammer.send_emails
