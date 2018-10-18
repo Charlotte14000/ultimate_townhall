@@ -13,8 +13,8 @@ class Mailer
   def initialize
       @contacts = JsonInterface.get_datas_from_json_file("db/contacts.json")
     # On récupère les contacts dans le fichier contacts.json auxquelles on va envoyer le mail?
-      @adresse_mail = ENV['ADRESSE_MAIL']
-      @mdp = ENV['MDP']
+      @adresse_mail = 'thehackingproject.lille@gmail.com'
+      @mdp = 'teamwelsh59'
   end
 
 # Cette méthode nous permet de se connecter au compte Gmail de THP Lille et d'envoyer un mail aux adresses mails présentes dans le fichier contacts.json
