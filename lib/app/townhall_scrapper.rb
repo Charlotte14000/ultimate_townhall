@@ -24,7 +24,7 @@ class Scrapper
       p contact
       @contacts << contact #stocke chaque contact dans l'array
     end
-  @contacts.compact #les erreurs 404 renvoyant nil, .compact permet de supprimer ces nil
+    @contacts.compact #les erreurs 404 renvoyant nil, .compact permet de supprimer ces nil
   end
 
   def get_all_the_urls_of_region_townhalls #récupère l'url de chaque mairie
