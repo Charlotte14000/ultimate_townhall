@@ -172,7 +172,8 @@
   {
     "name": "ANNEZIN",
     "email": "mairie.annezin@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairieAnnezin"
   },
   {
     "name": "ANVIN",
@@ -197,7 +198,8 @@
   {
     "name": "ARQUES",
     "email": "mairie@ville-arques.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "villedarques"
   },
   {
     "name": "ARRAS",
@@ -287,7 +289,8 @@
   {
     "name": "AUTINGUES",
     "email": "mairieautingues@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairieAutingues"
   },
   {
     "name": "AUXI-LE-CHATEAU",
@@ -778,7 +781,8 @@
   {
     "name": "BOULOGNE-SUR-MER",
     "email": "webmaster@ville-boulogne-sur-mer.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "olivierdarras"
   },
   {
     "name": "BOUQUEHAULT",
@@ -939,7 +943,8 @@
   {
     "name": "CALAIS",
     "email": "secretaire-general@mairie-calais.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "villedarques"
   },
   {
     "name": "CALONNE-RICOUART",
@@ -1044,7 +1049,8 @@
   {
     "name": "CARVIN",
     "email": "contact@carvin.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairiedeCarvin"
   },
   {
     "name": "CAUCHY-A-LA-TOUR",
@@ -1134,7 +1140,8 @@
   {
     "name": "CONDETTE",
     "email": "condette@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "hervecondette"
   },
   {
     "name": "CONTES",
@@ -1150,7 +1157,8 @@
   {
     "name": "COQUELLES",
     "email": "mairiecoquelles@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "VilleCoquelles"
   },
   {
     "name": "CORBEHEM",
@@ -1230,7 +1238,8 @@
   {
     "name": "CREPY",
     "email": "crepy.mairie@orange.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairieCrepy"
   },
   {
     "name": "CREQUY",
@@ -1300,7 +1309,8 @@
   {
     "name": "DIVION",
     "email": "contact@ville-divion.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "DIVION_officiel"
   },
   {
     "name": "DOHEM",
@@ -1350,7 +1360,8 @@
   {
     "name": "DURY",
     "email": "mairie@dury62.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "infodury"
   },
   {
     "name": "ECHINGHEN",
@@ -1460,7 +1471,8 @@
   {
     "name": "ERIN",
     "email": "mairie.erin@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "e_mairie1007"
   },
   {
     "name": "ERNY-SAINT-JULIEN",
@@ -1505,7 +1517,8 @@
   {
     "name": "AIX",
     "email": "",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "DemocratieAix"
   },
   {
     "name": "ALLENNES-LES-MARAIS",
@@ -1685,7 +1698,8 @@
   {
     "name": "BAISIEUX",
     "email": "mairiedebaisieux@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairieBaisieux"
   },
   {
     "name": "BAIVES",
@@ -1805,7 +1819,8 @@
   {
     "name": "BERMERAIN",
     "email": "mairiedebermerain@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairieBermerain"
   },
   {
     "name": "BERMERIES",
@@ -1980,7 +1995,8 @@
   {
     "name": "BOUVIGNIES",
     "email": "mairie.bouvignies@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Bouvignies59870"
   },
   {
     "name": "BOUVINES",
@@ -1995,7 +2011,8 @@
   {
     "name": "BRIASTRE",
     "email": "mairiedebriastre@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Info_Briastre"
   },
   {
     "name": "BRILLON",
@@ -2210,12 +2227,14 @@
   {
     "name": "CONDE-SUR-L'ESCAUT",
     "email": "cabinetmonsieurlemaire@mairie-conde-s-escaut.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairieConde59"
   },
   {
     "name": "COUDEKERQUE-BRANCHE",
     "email": "maire@ville-coudekerque-branche.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "ChristopheBerri"
   },
   {
     "name": "COUDEKERQUE-VILLAGE",
@@ -2260,7 +2279,8 @@
   {
     "name": "CROIX",
     "email": "mairie@ville-croix.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "LesCagettesDeJD"
   },
   {
     "name": "CROIX-CALUYAU",
@@ -2310,7 +2330,8 @@
   {
     "name": "DEULEMONT",
     "email": "mairie.deulemont@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairieDeulemont"
   },
   {
     "name": "DIMECHAUX",
@@ -2705,7 +2726,8 @@
   {
     "name": "FRETIN",
     "email": "mairie.secretariat@ville-fretin.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "1964anallo"
   },
   {
     "name": "FROMELLES",
@@ -2770,7 +2792,8 @@
   {
     "name": "GRANDE-SYNTHE",
     "email": "m.le.maire@ville-grande-synthe.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "CNT59_mairieGS"
   },
   {
     "name": "GRAND-FAYT",
@@ -2845,7 +2868,8 @@
   {
     "name": "HAUBOURDIN",
     "email": "mairie@haubourdin.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Mairiehaub"
   },
   {
     "name": "HAUCOURT-EN-CAMBRESIS",
@@ -2855,7 +2879,8 @@
   {
     "name": "HAULCHIN",
     "email": "mairie@haulchin.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "LJEANNAS"
   },
   {
     "name": "HAUSSY",
@@ -3030,7 +3055,8 @@
   {
     "name": "JEUMONT",
     "email": "communication@mairie-jeumont.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Mairiejeumont"
   },
   {
     "name": "JOLIMETZ",
@@ -3150,7 +3176,8 @@
   {
     "name": "LE-DOULIEU",
     "email": "mairie.doulieu@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Le_Doulieu"
   },
   {
     "name": "LEDRINGHEM",
@@ -3240,7 +3267,8 @@
   {
     "name": "LILLE",
     "email": "contactmairie@mairie-lille.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "AntoineRavard"
   },
   {
     "name": "LIMONT-FONTAINE",
@@ -3265,7 +3293,8 @@
   {
     "name": "LOMPRET",
     "email": "francoise.lagache@numericable.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairiedeLompret"
   },
   {
     "name": "LOOBERGHE",
@@ -3275,7 +3304,8 @@
   {
     "name": "LOON-PLAGE",
     "email": "mairie@loonplage.org",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "loonplage"
   },
   {
     "name": "LOOS",
@@ -3295,7 +3325,8 @@
   {
     "name": "LOUVIL",
     "email": "mairie.louvil@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairieLouvil"
   },
   {
     "name": "LOUVROIL",
@@ -3365,7 +3396,8 @@
   {
     "name": "MARLY",
     "email": "mairie-marly@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "marly57_"
   },
   {
     "name": "MAROILLES",
@@ -3400,7 +3432,8 @@
   {
     "name": "MASNY",
     "email": "mairie.masny@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairiedeMasny"
   },
   {
     "name": "MASTAING",
@@ -3450,7 +3483,8 @@
   {
     "name": "MERVILLE",
     "email": "contact@ville-merville.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MervilleFrPlage"
   },
   {
     "name": "METEREN",
@@ -3520,7 +3554,8 @@
   {
     "name": "MONTRECOURT",
     "email": "mairie-montrecourt@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "LJEANNAS"
   },
   {
     "name": "MORBECQUE",
@@ -3685,7 +3720,8 @@
   {
     "name": "ORS",
     "email": "mairie.ors@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "MairieOrs"
   },
   {
     "name": "ORSINVAL",
@@ -3830,7 +3866,8 @@
   {
     "name": "QUERENAING",
     "email": "contact@querenaing.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Querenaing"
   },
   {
     "name": "QUESNOY-SUR-DEULE",
@@ -3945,7 +3982,8 @@
   {
     "name": "ROEULX",
     "email": "mairie@roeulx.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Infos_Roeulx"
   },
   {
     "name": "ROMBIES-ET-MARCHIPONT",
@@ -3965,7 +4003,8 @@
   {
     "name": "RONCQ",
     "email": "contact@roncq.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "FVerheecken"
   },
   {
     "name": "ROOST-WARENDIN",
@@ -4165,7 +4204,8 @@
   {
     "name": "SALOME",
     "email": "contact@communesalome.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "SalomeMairie"
   },
   {
     "name": "SAMEON",
@@ -4205,7 +4245,8 @@
   {
     "name": "SAULZOIR",
     "email": "saulzoir-mairie@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "LJEANNAS"
   },
   {
     "name": "SEBOURG",
@@ -4275,7 +4316,8 @@
   {
     "name": "SOMAIN",
     "email": "mairie-somain@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Somain_Info"
   },
   {
     "name": "SOMMAING",
@@ -4400,7 +4442,8 @@
   {
     "name": "TOURCOING",
     "email": "jpbalduyck@ville-tourcoing.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "ceciletreheux"
   },
   {
     "name": "TOURMIGNIES",
@@ -4450,7 +4493,8 @@
   {
     "name": "VENDEVILLE",
     "email": "mairie-vendeville@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Vendeville59175"
   },
   {
     "name": "VERCHAIN-MAUGRE",
@@ -4470,7 +4514,8 @@
   {
     "name": "VICQ",
     "email": "contact@ville-vicq.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "VicqMairie"
   },
   {
     "name": "VIESLY",
@@ -4485,7 +4530,8 @@
   {
     "name": "VIEUX-CONDE",
     "email": "mairie@ville-vieux-conde.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "VieuxCondeCom"
   },
   {
     "name": "VIEUX-MESNIL",
@@ -4715,7 +4761,8 @@
   {
     "name": "WORMHOUT",
     "email": "communication.mairiedewormhout@wanadoo.fr",
-    "region": "NORD"
+    "region": "NORD",
+    "twitter": "Wormhout59470"
   },
   {
     "name": "WULVERDINGHE",
@@ -4895,7 +4942,8 @@
   {
     "name": "FLEURY",
     "email": "mairie.fleury62@orange.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairieDeFleury"
   },
   {
     "name": "FLORINGHEM",
@@ -5140,7 +5188,8 @@
   {
     "name": "GRIGNY",
     "email": "mairiedegrigny62140@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "jplanchet"
   },
   {
     "name": "GRINCOURT-LES-PAS",
@@ -5215,7 +5264,8 @@
   {
     "name": "HALLOY",
     "email": "",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "HalloyMairie"
   },
   {
     "name": "HAMBLAIN-LES-PRES",
@@ -5350,7 +5400,8 @@
   {
     "name": "HERICOURT",
     "email": "",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairieH"
   },
   {
     "name": "HERLINCOURT",
@@ -5365,7 +5416,8 @@
   {
     "name": "HERLY",
     "email": "herly.mairie@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "mairie_herly"
   },
   {
     "name": "HERMAVILLE",
@@ -5690,7 +5742,8 @@
   {
     "name": "LECHELLE",
     "email": "mairie.lechelle@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairiedeLchelle"
   },
   {
     "name": "LEDINGHEM",
@@ -5730,7 +5783,8 @@
   {
     "name": "LE-PORTEL",
     "email": "mairie@ville-leportel.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MairieLePortel"
   },
   {
     "name": "LE-QUESNOY-EN-ARTOIS",
@@ -5825,7 +5879,8 @@
   {
     "name": "LIEVIN",
     "email": "lievin@ville-lievin.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "dcahashdr"
   },
   {
     "name": "LIGNEREUIL",
@@ -6455,7 +6510,8 @@
   {
     "name": "OPPY",
     "email": "mairie@oppy.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "mairie_oppy"
   },
   {
     "name": "ORVILLE",
@@ -6745,7 +6801,8 @@
   {
     "name": "REMY",
     "email": "mairie.de.remy@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "StRemyChevreuse"
   },
   {
     "name": "RENTY",
@@ -6785,7 +6842,8 @@
   {
     "name": "RIVIERE",
     "email": "commune-riviere@nordnet.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "Gaetangamache"
   },
   {
     "name": "ROBECQ",
@@ -6975,7 +7033,8 @@
   {
     "name": "SAINT-GEORGES",
     "email": "",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "Villeneuve94190"
   },
   {
     "name": "SAINT-HILAIRE-COTTES",
@@ -7150,7 +7209,8 @@
   {
     "name": "SELLES",
     "email": "mairiedeselles62@orange.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "sellessurcher"
   },
   {
     "name": "SEMPY",
@@ -7170,7 +7230,8 @@
   {
     "name": "SENLIS",
     "email": "mairiesenlis@wanadoo.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "MSenlis"
   },
   {
     "name": "SERICOURT",
@@ -7200,7 +7261,8 @@
   {
     "name": "SIMENCOURT",
     "email": "commune.simencourt@nordnet.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "simencourt"
   },
   {
     "name": "SIRACOURT",
@@ -7430,7 +7492,8 @@
   {
     "name": "VERMELLES",
     "email": "secretariat@mairie-vermelles.fr",
-    "region": "PAS DE CALAIS"
+    "region": "PAS DE CALAIS",
+    "twitter": "koto_alex"
   },
   {
     "name": "VERQUIN",
@@ -8336,7 +8399,8 @@
   {
     "name": "BOUVILLE",
     "email": "mairie-bouville@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "MairieBouville"
   },
   {
     "name": "BRACHY",
@@ -8811,7 +8875,8 @@
   {
     "name": "EPOUVILLE",
     "email": "mairie@epouville.com",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "epouville"
   },
   {
     "name": "EPRETOT",
@@ -8996,7 +9061,8 @@
   {
     "name": "FRENEUSE",
     "email": "freneuse.mairie@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "freneuse76"
   },
   {
     "name": "FRESLES",
@@ -9046,7 +9112,8 @@
   {
     "name": "FRY",
     "email": "mairiedefry@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "MairieFry"
   },
   {
     "name": "FULTOT",
@@ -9171,7 +9238,8 @@
   {
     "name": "GRANDCAMP",
     "email": "mairiegrandcamp@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "Mairie_GDM"
   },
   {
     "name": "GRAND-COURONNE",
@@ -9231,7 +9299,8 @@
   {
     "name": "GUERVILLE",
     "email": "mairie.de.guerville.76@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "GuervilleMairie"
   },
   {
     "name": "GUEURES",
@@ -9411,7 +9480,8 @@
   {
     "name": "ISNEAUVILLE",
     "email": "contact@ville-isneauville.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "MairieIsneauvil"
   },
   {
     "name": "JUMIEGES",
@@ -9832,7 +9902,8 @@
   {
     "name": "MARQUES",
     "email": "mairie.marques@mcom.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "GildasRobert"
   },
   {
     "name": "MARTAINVILLE-EPREVILLE",
@@ -9992,7 +10063,8 @@
   {
     "name": "MONTMAIN",
     "email": "montmain@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "h_mairie"
   },
   {
     "name": "MONTREUIL-EN-CAUX",
@@ -10102,7 +10174,8 @@
   {
     "name": "NORVILLE",
     "email": "mairie.de.norville@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "lanorville91"
   },
   {
     "name": "NOTRE-DAME-D'ALIERMONT",
@@ -10277,7 +10350,8 @@
   {
     "name": "PREAUX",
     "email": "mairie.preaux76@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "Mairie_Preaux"
   },
   {
     "name": "PRETOT-VICQUEMARE",
@@ -10422,7 +10496,8 @@
   {
     "name": "ROUEN",
     "email": "rouen@rouen.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "MairieSER"
   },
   {
     "name": "ROUMARE",
@@ -10457,7 +10532,8 @@
   {
     "name": "RY",
     "email": "mairie.ry@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "mairiedery"
   },
   {
     "name": "SAANE-SAINT-JUST",
@@ -10492,7 +10568,8 @@
   {
     "name": "SAINT-ARNOULT",
     "email": "mairie-de-st-arnoult@wanadoo.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "MairieSay78"
   },
   {
     "name": "SAINT-AUBIN-CELLOVILLE",
@@ -10632,7 +10709,8 @@
   {
     "name": "SAINT-ETIENNE-DU-ROUVRAY",
     "email": "monsieurlemaire@ville-saintetiennedurouvray.fr",
-    "region": "SEINE MARITIME"
+    "region": "SEINE MARITIME",
+    "twitter": "MairieSER"
   },
   {
     "name": "SAINT-EUSTACHE-LA-FORET",
