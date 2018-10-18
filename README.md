@@ -90,7 +90,7 @@ Voici l'email envoyé aux mairies ciblées :
 
 <p style="text-align: center;">Bonjour,&nbsp; </p>
 <p>Nous sommes &eacute;l&egrave;ves &agrave; <strong>The Hacking Project</strong>, une formation au code gratuite, sans locaux, sans s&eacute;lection, sans restriction g&eacute;ographique. La p&eacute;dagogie de ntore &eacute;cole est celle du peer-learning, o&ugrave; nous travaillons par petits groupes sur des projets concrets qui font apprendre le code. Le projet du jour est d'envoyer (avec du codage) des emails aux mairies pour qu'ils nous aident &agrave; faire de The Hacking Project un nouveau format d'&eacute;ducation pour tous.</p>
-<p>D&eacute;j&agrave; 500 personnes sont pass&eacute;es par The Hacking Project. Est-ce que la mairie de [NOM_COMMUNE] veut changer le monde avec nous ?</p>
+<p>D&eacute;j&agrave; 500 personnes sont pass&eacute;es par The Hacking Project. Est-ce que vous voulez changer le monde avec nous ?</p>
 <p><strong>Charles,</strong> co-fondateur de The Hacking Project pourra r&eacute;pondre &agrave; toutes vos questions : <strong>06.95.46.60.80</strong></p>
 <p>Excellente journ&eacute;e &agrave; vous,&nbsp;<img src="https://html-online.com/editor/tinymce4_6_5/plugins/emoticons/img/smiley-smile.gif" alt="smile" /></p>
 <p><strong>La team Lille de The Hacking Project</strong></p>
