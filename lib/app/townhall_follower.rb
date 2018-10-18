@@ -48,7 +48,10 @@ class TownhallTwitter
   def print_contacts_if_twitter
     # J'affiche tous les contacts possédant un compte twitter
     @contacts.each do |contact|
-      puts contact if contact != nil && contact.keys.include?('twitter')
+      if contact != nil && contact.keys.include?('twitter')
+        puts "La commune de #{contact['name']} se trouve dans le département du #{contact['region']} !"
+        puts "Tu peux la contacter par mail à l'adresse suivante : #{contact['email']} ou sur twitter @#{contact['twitter']}."
+      end
     end
   end
 
@@ -63,9 +66,3 @@ class TownhallTwitter
     client.follow(to_follow) # Je follow tous les users de mon array
   end
 end
-
-test = TownhallTwitter.new
-#test.update_contacts_in_json  # Attention, cette ligne va bannir le compte twitter (too many request)
-#p test.how_many_townhall_use_twitter
-#test.print_contacts_if_twitter
-#test.follow_twitter_accounts
