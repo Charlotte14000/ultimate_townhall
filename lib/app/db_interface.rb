@@ -17,7 +17,7 @@ end
 
 
 if __FILE__ == $0
-  data = ['t', 'e', 's', 't']
-  JsonInterface.save_into_json_file(data, 'test.json')
-  p JsonInterface.get_datas_from_json_file('test.json')
+  #data = ['t', 'e', 's', 't']
+  #JsonInterface.save_into_json_file(data, 'test.json')
+  p JsonInterface.get_datas_from_json_file('db/contacts.json')
 end
