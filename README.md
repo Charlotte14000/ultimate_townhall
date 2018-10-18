@@ -4,11 +4,11 @@
 
 ### 🍻 Présentation de l'équipe 🍻
 
-Ce projet a été réalisé  en collaboration avec Virginie.VH (@VVH0), Anaïs.D (@anais-dlgt), Thomas.P (@TheLondonWhale), Mustapha.AO (@Kirimari), Tony.K (@TheStarrK), Josh.S (@immorsh), Félix.P (@perezfelix) et Clément.B (@Clement42) qui représentent la team Lilloise (59 rpz) de The Hacking Project.
+Ce projet a été réalisé  en collaboration avec <a href = "https://github.com/VVH0">Virginie.VH</a> (@VVH), <a href = "https://github.com/anais-dlgt">Anaïs.D</a> (@Anaïs), <a href = "https://github.com/TheLondonWhaleThomas.P">Thomas.P</a> (@ Thomas Prs TIW), <a href = "https://github.com/Kirimari">Mustapha.AO</a> (@Mouss), <a href = "https://github.com/TheStarrK">Tony.K</a> (@Tony), <a href = "https://github.com/immorsh">Josh.S</a> (@shaka), <a href = "https://github.com/perezfelix">Félix.P</a> (@Félix), <a href = "https://github.com/Clement42">Clément.B</a> (@Clement Boiral) et <a href = "https://github.com/Rafikder">Rafik.D</a> (@Rafikder) qui représentent la team Lilloise (59 rpz) de The Hacking Project.
 
 ### 💻 Présentation du programme 💻
 
-Ce programme consiste à contacter toutes les mairies de France pour que ces dernières parlent de THP dans un premier temps par email puis dans un second temps via Twitter.
+Ce programme consiste à contacter toutes les mairies de France dans un premier temps, par email puis dans un second temps, via Twitter, pour que ces dernières parlent de THP.
 
 ### 🔌  Comment utiliser le programme ? 🔌
 
@@ -88,17 +88,13 @@ Nous avons utilisé différentes gems pour l'exécution du programme :
 
 Voici l'email envoyé aux mairies ciblées :
 
-"Bonjour,
-
-Nous sommes élèves à The Hacking Project, une formation au code gratuite, sans locaux, sans sélection, sans restriction géographique. La pédagogie de ntore école est celle du peer-learning, où nous travaillons par petits groupes sur des projets concrets qui font apprendre le code. Le projet du jour est d'envoyer (avec du codage) des emails aux mairies pour qu'ils nous aident à faire de The Hacking Project un nouveau format d'éducation pour tous.
-
-Déjà 500 personnes sont passées par The Hacking Project. Est-ce que la mairie de [NOM_COMMUNE] veut changer le monde avec nous ?
-
-Charles, co-fondateur de The Hacking Project pourra répondre à toutes vos questions : 06.95.46.60.80
-
-Excellente journée à vous,
-
-La team Lille de The Hacking Project"
+<p style="text-align: center;">Bonjour,&nbsp; </p>
+<p>Nous sommes &eacute;l&egrave;ves &agrave; <strong>The Hacking Project</strong>, une formation au code gratuite, sans locaux, sans s&eacute;lection, sans restriction g&eacute;ographique. La p&eacute;dagogie de ntore &eacute;cole est celle du peer-learning, o&ugrave; nous travaillons par petits groupes sur des projets concrets qui font apprendre le code. Le projet du jour est d'envoyer (avec du codage) des emails aux mairies pour qu'ils nous aident &agrave; faire de The Hacking Project un nouveau format d'&eacute;ducation pour tous.</p>
+<p>D&eacute;j&agrave; 500 personnes sont pass&eacute;es par The Hacking Project. Est-ce que vous voulez changer le monde avec nous ?</p>
+<p><strong>Charles,</strong> co-fondateur de The Hacking Project pourra r&eacute;pondre &agrave; toutes vos questions : <strong>06.95.46.60.80</strong></p>
+<p>Excellente journ&eacute;e &agrave; vous,&nbsp;<img src="https://html-online.com/editor/tinymce4_6_5/plugins/emoticons/img/smiley-smile.gif" alt="smile" /></p>
+<p><strong>La team Lille de The Hacking Project</strong></p>
+<p><img src="https://www.thehackingproject.org/assets/thp-logo-5f2f06c9444205a88123ca1de74646970e5a1dfb03698d02db33e5e62a60d6cd.png" width="183" height="183" /></p>
 
 ### 🙈 Le nombre de mairies touchées 🙈
 
@@ -111,5 +107,5 @@ Soit un total de 2 286 mairies.
 
 ### ❤ Le handle utilisé ❤
 
-La team de Lille étant très soudé, un handle a été créé spécialement pour l'occasion : @ThpLille
-Soyez nombreux à nous suivre! Bisous
+La team de Lille étant très soudée, un handle a été créé spécialement pour l'occasion : <a href="https://twitter.com/ThpLille">@ThpLille</a>
+</br>Soyez nombreux à nous suivre! Bisous!

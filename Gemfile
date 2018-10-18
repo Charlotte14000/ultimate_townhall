@@ -1,5 +1,14 @@
 source "https://rubygems.org"
 ruby '2.5.1'
+gem 'bundler'
+gem 'twitter'
 gem 'gmail'
 gem 'gmail_xoauth'
-
+gem 'rubygems'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'json'
+gem 'google/apis/gmail_v1'
+gem 'googleauth'
+gem 'googleauth/stores/file_token_store'
+gem 'fileutils'
