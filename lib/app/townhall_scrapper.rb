@@ -7,8 +7,8 @@ require 'csv'
 class Scrapper
   attr_reader :contacts
 
-  def initialize(website_url) #définition des variables d'instance
-    @website_url = website_url
+  def initialize #définition des variables d'instance
+    @website_url = "http://annuaire-des-mairies.com/"
     @region_pages = ["pas-de-calais.html", "nord.html", "nord-2.html", "nord-3.html","pas-de-calais-2.html", "pas-de-calais-3.html", "seine-maritime.html", "seine-maritime-2.html", "seine-maritime-3.html"]
     @town_urls = []
     @contacts = []
@@ -21,6 +21,7 @@ class Scrapper
     get_all_the_urls_of_region_townhalls #appel de la méthode qui récupère les URLs
     @town_urls.each do |town_url| #itération sur chaque URL
       contact = get_the_email_of_a_townhal_from_its_webpage(town_url) #appel de la méthode pour récupérer les infos de chaque mairie
+      p contact
       @contacts << contact #stocke chaque contact dans l'array
     end
   @contacts.compact #les erreurs 404 renvoyant nil, .compact permet de supprimer ces nil

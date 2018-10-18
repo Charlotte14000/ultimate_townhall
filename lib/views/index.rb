@@ -5,14 +5,13 @@ class Menu
 		print ">"
 		choice = gets.chomp.to_i
 		if choice == 1
-			Mailer.new
-		elsif choice == 2
 			Scrapper.new
+		elsif choice == 2
+			Mailer.new
 		elsif choice == 3
 			Follow.new
 		else
-			puts "Non n'avons pas econnu votre choix, désolé. Que voulez vous faire? >"
-			choice = gets.chomp.to_i
+			puts "Non n'avons pas econnu votre choix, désolé."
 		end
 	end
 

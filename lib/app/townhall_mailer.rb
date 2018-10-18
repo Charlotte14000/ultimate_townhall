@@ -45,7 +45,8 @@ class Mailer
       sleep 0.1
     end
   end
-end
 
-spammer = Mailer.new
-spammer.send_emails
+  spammer = Mailer.new
+  spammer.send_emails
+
+end
