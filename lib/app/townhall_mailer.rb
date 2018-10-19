@@ -14,7 +14,7 @@ class Mailer
       @contacts = JsonInterface.get_datas_from_json_file("db/contacts.json")
       # On récupère les contacts dans le fichier contacts.json auxquelles on va envoyer le mail?
       @adresse_mail = 'thehackingproject.lille@gmail.com'
-      @mdp = 'teamwelsh59'
+      @mdp = '******'
 
       send_emails #appel de la méthode pour envoyer les mails
   end
